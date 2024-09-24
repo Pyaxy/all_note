@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "3f0e605aff893128",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf8d2d9a6c78899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099409b1bc29c2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机网络概述.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7de9c289f54501fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eb90c50f5d61267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5df1217ebe778bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "167aa32ec92d803b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a802d530e6d335d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6682833d9f93dfbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b9f99d9d4951ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7bb2c4cc179eeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机网络/计算机网络概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fa379e7b6581b03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机网络/计算机网络概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc48e81a0949fd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8c2b87126fa4acc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机网络/计算机网络概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "099409b1bc29c2a2",
+  "lastOpenFiles": [
+    "计算机网络/计算机网络.md",
+    "计算机网络/物理层⚛️.md",
+    "计算机网络/传输介质.md",
+    "计算机网络/以太网.md",
+    "ppy的笔记📒.md",
+    "计算机网络/数字传输系统.md",
+    "计算机网络/计算机网络概述.md",
+    "计算机网络/集线器.md",
+    "计算机网络/中继器.md",
+    "计算机网络/信道的极限容量.md",
+    "计算机网络/数据的编码与调制.md",
+    "计算机网络/第一章",
+    "计算机网络/宽带接入技术.md",
+    "计算机网络/OSI参考模型.md",
+    "计算机网络/网络层🛜.md",
+    "img/编码方式.png",
+    "img/以太网对传输介质的命名规则.png",
+    "img/波分复用.png",
+    "img/调制方式.png",
+    "img/光纤.png",
+    "img",
+    "计算机网络/物理层设备.md",
+    "img/HFC频谱划分.png",
+    "img/ASDL频谱分布.png",
+    "计算机网络/信道复用技术.md",
+    "img/CDMA传输举例.png",
+    "img/时分多路复用.png",
+    "img/频分多路复用.png",
+    "计算机网络/数据通信基础知识.md",
+    "计算机网络/计算机网络体系结构与国际标准化组织.md",
+    "计算机网络/应用层.md",
+    "计算机网络/TCP IP模型.md",
+    "TCP&IP.md",
+    "计算机网络/计算机网络中的协议.md",
+    "计算机网络/数据链路层🔗.md",
+    "TCP/IP模型 3.md",
+    "TCP/IP模型 2.md",
+    "TCP",
+    "计算机网络"
+  ]
+}
