@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "560cab435ca7185f",
+        "id": "a06e3b4b3d46f923",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6c4da58cde1d23",
+            "id": "151bc4c960f72450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "绪论.md",
-                "mode": "preview",
+                "file": "数据结构/数据结构.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绪论"
+              "title": "数据结构"
+            }
+          },
+          {
+            "id": "b2a42485765b2ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/线形表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线形表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,10 +190,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e6c4da58cde1d23",
+  "active": "b2a42485765b2ebf",
   "lastOpenFiles": [
+    "数据结构/线形表.md",
     "数据结构/数据结构.md",
-    "绪论.md",
+    "数据结构/绪论.md",
     "数据结构",
     "ppy的笔记📒.md",
     "计算机网络/计算机网络.md",
@@ -212,7 +227,6 @@
     "计算机网络/计算机网络中出现的格式.md",
     "计算机网络/计算机网络中出现的设备.md",
     "计算机网络/基本数据链路层协议.md",
-    "计算机网络/计算机网络中的协议.md",
     "res/PPP协议的工作状态.png",
     "res/PPP帧格式.png",
     "CSMA",
