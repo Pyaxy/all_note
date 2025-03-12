@@ -1,1 +1,1 @@
-![[IP数据报分片例题.png]]
+![IP数据报分片例题](http://oss.pyaxy.xyz/img/IP%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%88%86%E7%89%87%E4%BE%8B%E9%A2%98.png)
