@@ -6,5 +6,6 @@
   "media-extended",
   "obsidian-linter",
   "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-pandoc"
 ]
