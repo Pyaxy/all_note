@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "329992f83f9cf6b7",
+        "id": "9da23b0a51476fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "b21a7e1014ac100e",
+            "id": "d3fa7e6675ea35df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/数据结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "数据结构"
+            }
+          },
+          {
+            "id": "13d791acf1cc4a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/线性表.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "线性表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,12 +108,37 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "b21a7e1014ac100e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/数据结构.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "数据结构"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6682833d9f93dfbb",
@@ -183,23 +247,27 @@
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "b21a7e1014ac100e",
+  "active": "13d791acf1cc4a4d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-13 21.15.28.excalidraw.md",
+    "数据结构/线性表.md",
+    "2.2.1 顺序表.md",
+    "2.1 线性表的定义与基本操作.md",
     "数据结构/数据结构.md",
+    "数据结构/绪论.md",
+    "数据结构/数据结构.epub",
     "机器学习",
     "数据结构/第二章_线性表_线性存储部分.pdf",
-    "数据结构/线性表.md",
-    "数据结构/绪论.md",
     "机器学习/MATLAB教程.md",
     "ppy的笔记📒.md",
     "机器学习/Machine Learning.md",
@@ -223,8 +291,6 @@
     "计算机网络/宽带接入技术.md",
     "计算机网络/基本数据链路层协议.md",
     "计算机网络/信道复用技术.md",
-    "计算机网络/以太网.md",
-    "计算机网络/IPv4.md",
     "res/img/ASDL频谱分布.png",
     "Excalidraw",
     "res/线性表的形式.png",
@@ -239,7 +305,6 @@
     "res",
     "计算机网络/第一章",
     "res/img",
-    "TCP",
-    "计算机网络"
+    "TCP"
   ]
 }

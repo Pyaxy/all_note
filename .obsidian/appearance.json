@@ -1,3 +1,7 @@
 {
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "Maple Mono NF",
+  "translucency": true,
+  "cssTheme": "",
+  "textFontFamily": "Bookerly",
+  "theme": "system"
 }
