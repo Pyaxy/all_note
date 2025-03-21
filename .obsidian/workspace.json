@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da23b0a51476fd6",
+        "id": "a852c76866b64453",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fa7e6675ea35df",
+            "id": "129c4340e4d186d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/数据结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "数据结构"
-            }
-          },
-          {
-            "id": "13d791acf1cc4a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/线性表.md",
+                "file": "毕业设计/2-技术文档/版本管理/Git提交规范.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "线性表"
+              "title": "Git提交规范"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/线性表.md",
+                "file": "毕业设计/2-技术文档/版本管理/Git提交规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性表 的大纲"
+              "title": "Git提交规范 的大纲"
             }
           },
           {
@@ -234,13 +209,24 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "e4387a244a3efa1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,57 +240,57 @@
       "random-note:开始漫游笔记": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "media-extended:Open media": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13d791acf1cc4a4d",
+  "active": "129c4340e4d186d1",
   "lastOpenFiles": [
+    "毕业设计/1-开发日志/Daily/2025-03-21 开发日志.md",
+    "毕业设计/4-问题与解决/PostgreSQL 匿名卷重复生成.md",
+    "Templates/Question-log.md",
+    "Templates/Daily-log.md",
+    "数据结构/数据结构.md",
+    "毕业设计/4-问题与解决/Docker宿主机脚本权限问题.md",
+    "毕业设计/1-开发日志/Daily/2025-03-18 开发日志.md",
+    "毕业设计/2-技术文档/版本管理/Git提交规范.md",
+    "毕业设计/2-技术文档/数据库/数据库操作.md",
+    "毕业设计/2-技术文档/数据库/数据备份指南.md",
+    "毕业设计/0-MOC/项目总览.md",
+    "Excalidraw/Drawing 2025-03-21 16.30.02.excalidraw.md",
     "Excalidraw/Drawing 2025-03-13 21.15.28.excalidraw.md",
+    "毕业设计/2-技术文档/版本管理",
+    "毕业设计/0-MOC/代办计划.md",
+    "毕业设计/6-Attachments/Drawing 2025-03-21 14.10.30.excalidraw.md",
+    "毕业设计/6-Attachments/核心功能模块.excalidraw.md",
+    "毕业设计/6-Attachments",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "毕业设计/2-技术文档/未命名.md",
+    "毕业设计/2-技术文档/数据库",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "数据结构/绪论.md",
+    "毕业设计/1-开发日志/Daily",
+    "毕业设计/5-参考资料",
+    "毕业设计/4-问题与解决",
+    "毕业设计/3-功能模块",
+    "毕业设计/2-技术文档",
     "数据结构/线性表.md",
     "2.2.1 顺序表.md",
     "2.1 线性表的定义与基本操作.md",
-    "数据结构/数据结构.md",
-    "数据结构/绪论.md",
-    "数据结构/数据结构.epub",
-    "机器学习",
-    "数据结构/第二章_线性表_线性存储部分.pdf",
     "机器学习/MATLAB教程.md",
     "ppy的笔记📒.md",
     "机器学习/Machine Learning.md",
-    "README.md",
-    "机器学习/过拟合问题.md",
-    "Excalidraw/Drawing 2025-03-12 16.02.58.excalidraw.md",
     "未命名.canvas",
-    "机器学习/logistic回归.md",
-    "机器学习/确定执行的优先级.md",
-    "机器学习/支持向量机.md",
-    "机器学习/一些建议.md",
-    "机器学习/神经网络.md",
     "res/20.png",
     "res/16.png",
-    "计算机网络/网络层提供的两种服务.md",
-    "计算机网络/数据的编码与调制.md",
-    "计算机网络/广域网（PPP协议）.md",
-    "计算机网络/差错控制.md",
-    "计算机网络/局域网互联.md",
-    "计算机网络/局域网.md",
-    "计算机网络/宽带接入技术.md",
-    "计算机网络/基本数据链路层协议.md",
-    "计算机网络/信道复用技术.md",
     "res/img/ASDL频谱分布.png",
-    "Excalidraw",
     "res/线性表的形式.png",
-    "数据结构",
     "res/ICMP报文格式.png",
     "res/IP数据报包头校验和算法.png",
     "res/IP数据报分片例题.png",
     "res/IP数据报格式.png",
-    "res/ARP过程.png",
-    "res/IP 地址中的网络号字段和主机号字段.png",
-    "CSMA",
-    "res",
-    "计算机网络/第一章",
-    "res/img",
-    "TCP"
+    "res/ARP过程.png"
   ]
 }
