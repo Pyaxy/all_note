@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e650e57e0ec3df9e",
+        "id": "a128bbb7e960e18b",
         "type": "tabs",
         "children": [
           {
-            "id": "4678fde771de9f75",
+            "id": "60b761a3a95a3a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/线性表.md",
-                "mode": "preview",
+                "file": "数据结构/栈与队列的应用.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "线性表"
+              "title": "栈与队列的应用"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#易错点  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
               "state": {
                 "file": "数据结构/数据结构.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -206,8 +206,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -227,15 +227,20 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4678fde771de9f75",
+  "active": "60b761a3a95a3a79",
   "lastOpenFiles": [
-    "数据结构/线性表.md",
-    "Excalidraw/Drawing 2025-05-24 20.33.41.excalidraw.md",
+    "数据结构/栈和队列.md",
+    "数据结构/栈与队列的应用.md",
     "数据结构/数据结构.md",
+    "数据结构/线性表.md",
     "数据结构/绪论.md",
+    "Pasted image 20250526203256.png",
+    "Excalidraw/Drawing 2025-05-24 20.33.41.excalidraw.md",
     "毕业设计/6-Attachments/前端鉴权存储.md",
     "毕业设计/6-Attachments/核心功能模块.excalidraw.md",
     "毕业设计/6-Attachments/Drawing 2025-03-21 14.10.30.excalidraw.md",
@@ -257,8 +262,6 @@
     "毕业设计/1-开发日志/Daily/2025-04-15 开发日志.md",
     "毕业设计/1-开发日志/Daily/2025-04-16 开发日志.md",
     "毕业设计/1-开发日志/Daily/2025-04-17 开发日志.md",
-    "Templates/Question-log.md",
-    "2025-04-16.md",
     "毕业设计/3-功能模块/用户认证",
     "毕业设计/2-技术文档/版本管理",
     "毕业设计/6-Attachments",
@@ -277,7 +280,6 @@
     "res/ICMP报文格式.png",
     "res/IP数据报包头校验和算法.png",
     "res/IP数据报分片例题.png",
-    "res/IP数据报格式.png",
-    "res/ARP过程.png"
+    "res/IP数据报格式.png"
   ]
 }
