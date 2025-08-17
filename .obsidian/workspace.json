@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "数据结构/树与二叉树.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -108,7 +108,8 @@
               "title": "数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,13 +235,14 @@
   },
   "active": "189b6573f5a5ebc1",
   "lastOpenFiles": [
-    "数据结构/栈与队列的应用.md",
+    "数据结构/绪论.md",
     "数据结构/树与二叉树.md",
+    "数据结构/栈和队列.md",
+    "数据结构/栈与队列的应用.md",
     "数据结构/数据结构.md",
     "Pasted image 20250730161305.png",
     "Pasted image 20250730155932.png",
     "Pasted image 20250730160345.png",
-    "数据结构/栈和队列.md",
     "数据结构/串.md",
     "Pasted image 20250720204511.png",
     "Pasted image 20250720221238.png",
@@ -253,7 +255,6 @@
     "Pasted image 20250720185431.png",
     "Pasted image 20250720180516.png",
     "数据结构/线性表.md",
-    "数据结构/绪论.md",
     "Pasted image 20250526203256.png",
     "Excalidraw/Drawing 2025-05-24 20.33.41.excalidraw.md",
     "毕业设计/6-Attachments/前端鉴权存储.md",
