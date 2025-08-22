@@ -11,10 +11,24 @@
             "id": "6724552e9961c26a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/图.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "图"
             }
           }
         ]
@@ -94,8 +108,7 @@
               "title": "数据结构"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +234,8 @@
   },
   "active": "6724552e9961c26a",
   "lastOpenFiles": [
-    "图.md",
+    "数据结构/串.md",
+    "数据结构/图.md",
     "数据结构/树与二叉树.md",
     "数据结构/数据结构.md",
     "2025-04-16.md",
@@ -231,7 +245,6 @@
     "Pasted image 20250730161305.png",
     "Pasted image 20250730155932.png",
     "Pasted image 20250730160345.png",
-    "数据结构/串.md",
     "Pasted image 20250720204511.png",
     "Pasted image 20250720221238.png",
     "数据结构/特殊矩阵的压缩存储.md",
