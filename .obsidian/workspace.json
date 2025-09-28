@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ca614bf658a365b4",
+        "id": "3d47e29c86451bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "6724552e9961c26a",
+            "id": "2b908acedb50ab6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "数据结构/图.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Bases/408.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "图"
+              "icon": "lucide-table",
+              "title": "408"
             }
           }
         ]
@@ -51,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -112,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6682833d9f93dfbb",
@@ -177,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/线性表.md",
+                "file": "Bases/408.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "线性表 的大纲"
+              "title": "408 的大纲"
             }
           },
           {
@@ -209,17 +197,29 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5bfdbb51f5b0e4c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "数据结构/图.md"
+              },
+              "icon": "lucide-info",
+              "title": "图的笔记属性"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -229,46 +229,48 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "6724552e9961c26a",
+  "active": "2b908acedb50ab6c",
   "lastOpenFiles": [
-    "数据结构/串.md",
     "数据结构/图.md",
-    "数据结构/树与二叉树.md",
     "数据结构/数据结构.md",
+    "Bases/408.base",
+    "计算机网络/以太网.md",
+    "计算机网络/传输介质.md",
+    "计算机网络/传输层🚛.md",
+    "计算机网络/划分子网.md",
+    "计算机网络/信道的极限容量.md",
+    "计算机网络/划分子网与构造超网.md",
+    "计算机网络/基本数据链路层协议.md",
+    "计算机网络/宽带接入技术.md",
+    "计算机网络/局域网.md",
+    "计算机网络/表示层.md",
+    "计算机网络/计算机网络中的协议.md",
+    "计算机网络/计算机网络概述.md",
+    "计算机网络/随机访问介质访问控制.md",
+    "计算机网络/轮询访问介质访问控制.md",
+    "计算机网络/计算机网络.md",
+    "计算机网络/网络层🛜.md",
+    "计算机网络/构造超网.md",
+    "ppy的笔记📒.md",
+    "Bases",
+    "Untitled.md",
+    "数据结构/串.md",
+    "数据结构/树与二叉树.md",
     "2025-04-16.md",
     "数据结构/绪论.md",
-    "数据结构/栈和队列.md",
-    "数据结构/栈与队列的应用.md",
     "Pasted image 20250730161305.png",
     "Pasted image 20250730155932.png",
     "Pasted image 20250730160345.png",
     "Pasted image 20250720204511.png",
     "Pasted image 20250720221238.png",
-    "数据结构/特殊矩阵的压缩存储.md",
-    "README.md",
-    "ppy的笔记📒.md",
-    "2025-03-26.md",
     "Pasted image 20250720191800.png",
     "Pasted image 20250720185431.png",
     "Pasted image 20250720180516.png",
-    "数据结构/线性表.md",
     "Pasted image 20250526203256.png",
-    "Excalidraw/Drawing 2025-05-24 20.33.41.excalidraw.md",
-    "毕业设计/6-Attachments/前端鉴权存储.md",
-    "毕业设计/6-Attachments/核心功能模块.excalidraw.md",
-    "毕业设计/6-Attachments/Drawing 2025-03-21 14.10.30.excalidraw.md",
-    "毕业设计/3-功能模块/用户认证/用户认证接口文档.md",
-    "毕业设计/2-技术文档/版本管理/Git提交规范.md",
-    "毕业设计/2-技术文档/数据库/数据库操作.md",
-    "毕业设计/2-技术文档/数据库/数据备份指南.md",
-    "毕业设计/1-开发日志/周报/进度汇报.md",
-    "毕业设计/0-MOC/项目总览.md",
-    "毕业设计/1-开发日志/Daily/2025-04-25 开发日志.md",
-    "Templates/Daily-log.md",
-    "毕业设计/1-开发日志/Daily/2025-04-23 开发日志.md",
     "毕业设计/1-开发日志/周报",
     "毕业设计/3-功能模块/用户认证",
     "毕业设计/2-技术文档/版本管理",
@@ -278,8 +280,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "毕业设计/1-开发日志/Daily",
-    "毕业设计/5-参考资料",
-    "毕业设计/4-问题与解决",
     "未命名.canvas"
   ]
 }

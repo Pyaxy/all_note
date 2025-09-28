@@ -1,0 +1,11 @@
+filters:
+  or:
+    - file.name == "数据结构"
+    - file.name == "计算机网络"
+views:
+  - type: table
+    name: 表格
+  - type: cards
+    name: gallery
+    cardSize: 140
+    image: note.cover
