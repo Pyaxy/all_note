@@ -11,13 +11,24 @@
             "id": "2b908acedb50ab6c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/408.base",
-                "viewName": "表格"
+                "file": "计算机网络/传输介质.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "408"
+              "icon": "lucide-file",
+              "title": "传输介质"
             }
           }
         ]
@@ -101,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 508.5
   },
   "right": {
     "id": "6682833d9f93dfbb",
@@ -165,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bases/408.base",
+                "file": "计算机网络/传输介质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "408 的大纲"
+              "title": "传输介质 的大纲"
             }
           },
           {
@@ -235,12 +246,18 @@
   },
   "active": "2b908acedb50ab6c",
   "lastOpenFiles": [
+    "计算机网络/计算机网络中出现的协议.md",
+    "计算机网络/网络层.md",
+    "计算机网络/计算机网络中出现的设备.md",
+    "ppy的笔记.md",
+    "计算机网络/物理层.md",
+    "计算机网络/数据链路层.md",
+    "计算机网络/传输层.md",
+    "Bases/408.base",
     "数据结构/图.md",
     "数据结构/数据结构.md",
-    "Bases/408.base",
     "计算机网络/以太网.md",
     "计算机网络/传输介质.md",
-    "计算机网络/传输层🚛.md",
     "计算机网络/划分子网.md",
     "计算机网络/信道的极限容量.md",
     "计算机网络/划分子网与构造超网.md",
@@ -253,15 +270,10 @@
     "计算机网络/随机访问介质访问控制.md",
     "计算机网络/轮询访问介质访问控制.md",
     "计算机网络/计算机网络.md",
-    "计算机网络/网络层🛜.md",
     "计算机网络/构造超网.md",
-    "ppy的笔记📒.md",
     "Bases",
     "Untitled.md",
     "数据结构/串.md",
-    "数据结构/树与二叉树.md",
-    "2025-04-16.md",
-    "数据结构/绪论.md",
     "Pasted image 20250730161305.png",
     "Pasted image 20250730155932.png",
     "Pasted image 20250730160345.png",

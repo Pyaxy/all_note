@@ -1,2 +1,5 @@
 # Ignore .DS_Store file
 **/.DS_Store
+
+# Ignore remotely-save plugin
+.obsidian/plugins/remotely-save

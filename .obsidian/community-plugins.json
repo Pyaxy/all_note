@@ -8,5 +8,6 @@
   "obsidian-annotator",
   "dataview",
   "obsidian-pandoc",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "remotely-save"
 ]
