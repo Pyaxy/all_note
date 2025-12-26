@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "3f0e605aff893128",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "3d47e29c86451bd5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2b908acedb50ab6c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/传输介质.md",
-                "mode": "source",
+                "file": "00-Index/00-Home.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "传输介质"
+              "title": "00-Home"
             }
           }
         ]
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 200
   },
   "right": {
     "id": "6682833d9f93dfbb",
@@ -161,7 +161,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/传输介质.md",
+                "file": "ppy的笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "传输介质 的大纲"
+              "title": "ppy的笔记 的大纲"
             }
           },
           {
@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,39 +242,51 @@
       "workspaces:管理工作区布局": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "2b908acedb50ab6c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机网络/计算机网络中出现的协议.md",
-    "计算机网络/网络层.md",
-    "计算机网络/计算机网络中出现的设备.md",
-    "ppy的笔记.md",
-    "计算机网络/物理层.md",
-    "计算机网络/数据链路层.md",
-    "计算机网络/传输层.md",
-    "Bases/408.base",
-    "数据结构/图.md",
-    "数据结构/数据结构.md",
-    "计算机网络/以太网.md",
-    "计算机网络/传输介质.md",
-    "计算机网络/划分子网.md",
-    "计算机网络/信道的极限容量.md",
-    "计算机网络/划分子网与构造超网.md",
-    "计算机网络/基本数据链路层协议.md",
-    "计算机网络/宽带接入技术.md",
-    "计算机网络/局域网.md",
-    "计算机网络/表示层.md",
-    "计算机网络/计算机网络中的协议.md",
-    "计算机网络/计算机网络概述.md",
-    "计算机网络/随机访问介质访问控制.md",
-    "计算机网络/轮询访问介质访问控制.md",
-    "计算机网络/计算机网络.md",
-    "计算机网络/构造超网.md",
-    "Bases",
-    "Untitled.md",
-    "数据结构/串.md",
+    "00-Index/00-Home.md",
+    "20-Areas/22-Life-Journal/我没有温凉那样的女朋友，我只能让自己成为自己的“九月凉”.md",
+    "20-Areas/22-Life-Journal/ppy的笔记.md",
+    "90-System/Templates/Book-Template.md",
+    "30-Resources/31-CS-Core/数据结构/数据结构.md",
+    "30-Resources/31-CS-Core/408-Bases/408.base",
+    "00-Index/01-Inbox.md",
+    "10-Projects/11-毕业设计/0-MOC/开发基准上下文-bak.md",
+    "10-Projects/11-毕业设计/0-MOC/开发基准上下文-2025-3-24.md",
+    "10-Projects/11-毕业设计/0-MOC/代办计划.md",
+    "40-Archives/42-Misc-Archive/TCCD教育邮箱.md",
+    "40-Archives/42-Misc-Archive/Enrollment-Verification-as-of-12-副本.docx",
+    "40-Archives/42-Misc-Archive",
+    "30-Resources/31-CS-Core/408-Bases",
+    "30-Resources/31-CS-Core/思维导图/数据结构.xmind",
+    "30-Resources/31-CS-Core/思维导图",
+    "30-Resources/31-CS-Core/机器学习/支持向量机.md",
+    "30-Resources/31-CS-Core/机器学习/神经网络.md",
+    "30-Resources/31-CS-Core/机器学习/过拟合问题.md",
+    "30-Resources/31-CS-Core/机器学习/确定执行的优先级.md",
+    "30-Resources/31-CS-Core/机器学习/logistic回归.md",
+    "30-Resources/31-CS-Core/机器学习/MATLAB教程.md",
+    "30-Resources/31-CS-Core/机器学习/一些建议.md",
+    "30-Resources/31-CS-Core/机器学习/Machine Learning.md",
+    "30-Resources/31-CS-Core/机器学习",
+    "30-Resources/31-CS-Core/计算机网络/轮询访问介质访问控制.md",
+    "30-Resources/31-CS-Core/计算机网络/集线器.md",
+    "30-Resources/31-CS-Core/计算机网络/随机访问介质访问控制.md",
+    "30-Resources/31-CS-Core/计算机网络/计算机网络中出现的设备.md",
+    "30-Resources/31-CS-Core/计算机网络/计算机网络体系结构与国际标准化组织.md",
+    "30-Resources/31-CS-Core/计算机网络/计算机网络中出现的格式.md",
+    "30-Resources/31-CS-Core/计算机网络/计算机网络概述.md",
+    "30-Resources/31-CS-Core/计算机网络/计算机网络中的协议.md",
+    "30-Resources/31-CS-Core/计算机网络",
+    "30-Resources/31-CS-Core/数据结构",
+    "10-Projects/11-毕业设计/3-功能模块/用户认证",
+    "90-System/Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "90-System/Assets/16.png",
+    "Pasted image 20251207180155.png",
     "Pasted image 20250730161305.png",
     "Pasted image 20250730155932.png",
     "Pasted image 20250730160345.png",
@@ -281,17 +294,6 @@
     "Pasted image 20250720221238.png",
     "Pasted image 20250720191800.png",
     "Pasted image 20250720185431.png",
-    "Pasted image 20250720180516.png",
-    "Pasted image 20250526203256.png",
-    "毕业设计/1-开发日志/周报",
-    "毕业设计/3-功能模块/用户认证",
-    "毕业设计/2-技术文档/版本管理",
-    "毕业设计/6-Attachments",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "毕业设计/2-技术文档/数据库",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "毕业设计/1-开发日志/Daily",
     "未命名.canvas"
   ]
 }

@@ -3,9 +3,11 @@ filters:
     - file.name == "数据结构"
     - file.name == "计算机网络"
 views:
-  - type: table
-    name: 表格
   - type: cards
     name: gallery
-    cardSize: 140
     image: note.cover
+  - type: table
+    name: 表格
+  - type: list
+    name: 视图
+    markers: bullet
